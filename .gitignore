@@ -1,3 +1,6 @@
 camel-microservice-a.zip
 camel-microservice-b.zip
 /.metadata/
+camel-main.zip
+/camel-main
+/camel-microservices-a/files/output
